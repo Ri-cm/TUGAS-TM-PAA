@@ -56,11 +56,5 @@ Semua response menggunakan format JSON konsisten: `{ "status": boolean, "message
 
 ### 📹 Link Video Presentasi
 Tonton demonstrasi lengkap project ini (Demo Database, Kode, dan API) pada link berikut:
-👉 **[Link Video YouTube Anda di Sini]**
+👉 **[https://youtu.be/iKTYzAc3Wk8]**
 
----
-
-### Penjelasan Tambahan untuk Mahasiswa (Tips Skor Maksimal):
-1.  **README Lengkap (Skor 5):** Poin ini sudah mencakup deskripsi, teknologi, instalasi, import DB, dan tabel endpoint sesuai rubrik.
-2.  **Keamanan:** Sebutkan dalam video bahwa penggunaan **Dapper** dengan model DTO memastikan aplikasi bebas dari **SQL Injection**.
-3.  **Soft Delete:** Jelaskan bahwa endpoint `DELETE` tidak menggunakan `DROP/DELETE FROM`, melainkan `UPDATE` pada kolom `deleted_at`.
