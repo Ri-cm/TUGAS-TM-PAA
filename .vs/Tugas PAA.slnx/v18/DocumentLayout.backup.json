@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBO PRAK\\Tugas PAA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\models\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\models\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|d:\\pbo prak\\tugas paa\\tugas paa\\tugas paa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAC3050D-6F8B-1177-3D22-00866F2D5CFB}|Tugas PAA\\Tugas PAA.csproj|solutionrelative:tugas paa\\tugas paa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Tugas PAA\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:33:56.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Models\\Author.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Author.cs",
+              "RelativeToolTip": "Tugas PAA\\Models\\Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:08:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Models\\BookCreateDto.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\BookCreateDto.cs",
+              "RelativeToolTip": "Tugas PAA\\Models\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:30:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Tugas PAA\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:10:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Models\\Books.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Books.cs",
+              "RelativeToolTip": "Tugas PAA\\Models\\Books.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:07:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Program.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Program.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Program.cs",
+              "RelativeToolTip": "Tugas PAA\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:13:43.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Data\\DbContext.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Data\\DbContext.cs",
+              "RelativeToolTip": "Tugas PAA\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:09:45.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\Models\\Category.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Models\\Category.cs",
+              "RelativeToolTip": "Tugas PAA\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:08:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\appsettings.json",
+              "RelativeDocumentMoniker": "Tugas PAA\\appsettings.json",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\appsettings.json",
+              "RelativeToolTip": "Tugas PAA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T13:12:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Tugas PAA\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Tugas PAA\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T13:36:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Tugas PAA\\WeatherForecast.cs",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\WeatherForecast.cs",
+              "RelativeToolTip": "Tugas PAA\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:38:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tugas PAA.csproj",
+              "DocumentMoniker": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Tugas PAA.csproj",
+              "RelativeDocumentMoniker": "Tugas PAA\\Tugas PAA.csproj",
+              "ToolTip": "D:\\PBO PRAK\\Tugas PAA\\Tugas PAA\\Tugas PAA.csproj",
+              "RelativeToolTip": "Tugas PAA\\Tugas PAA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T13:07:21.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
